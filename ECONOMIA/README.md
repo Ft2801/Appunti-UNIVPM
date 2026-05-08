@@ -1,6 +1,6 @@
-# Ingegneria
+# Economia
 
-Appunti, slide, esercizi e materiale didattico per i corsi della Facoltà di Ingegneria dell'Università Politecnica delle Marche (UNIVPM).
+Appunti, slide, esercizi e materiale didattico per i corsi della Facoltà di Economia dell'Università Politecnica delle Marche (UNIVPM).
 
 ## Struttura
 
@@ -8,14 +8,12 @@ Questo repository è organizzato nei seguenti percorsi di studio:
 
 - **triennale**: Corsi della laurea triennale
 - **magistrale**: Corsi della laurea magistrale
-- **materie comuni**: Materie condivise tra i vari indirizzi
 
 ## Utilizzo
 
 1. Naviga nel percorso di studio che ti interessa (triennale o magistrale)
-2. Seleziona l'indirizzo di laurea
-3. Scegli la materia desiderata
-4. Ogni cartella contiene un README con la descrizione del corso e il materiale caricato dai contributori
+2. Seleziona il corso desiderato
+3. Ogni cartella contiene un README con la descrizione del corso e il materiale caricato dai contributori
 
 ## Formati supportati
 
