@@ -1,0 +1,22 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# File temporanei
+*.tmp
+*.bak
+*.orig
+
+# File compressi (caricare solo i file estratti)
+*.zip
+*.rar
+*.7z
+*.tar.gz
